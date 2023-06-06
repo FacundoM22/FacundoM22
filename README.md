@@ -8,7 +8,7 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title= "Python" widht= "40" height= "40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" title="Arduino" width="40" height="40">
-    <h4>Herramientas:</h4>
+    <h4>Herramientas 🔧:</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" width="40" height="40">
     <img src="https://i.ibb.co/Px9LcTq/IDA-fotor-bg-remover-20230605202953-2.png" title="IDA" width="45" height="50">
     <img src="https://i.ibb.co/pJK3rR0/j-P926-AXC-400x400-transformed.png" title="x64 dbg" width="45" height="40">
