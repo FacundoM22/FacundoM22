@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1 align="center">Hola, soy Facundo Martin 👋</h1>
-  <h4 align="center">Soy un estudiante en analista en sistemas proveniente de Argentina, me encanta la programacion y le dedico mucho tiempo de mi vida, siempre recurro a ella para tratar de resolver cualquier necesidad. Busco en el dia a dia incorporar nuevas herramientas o tecnologias a mi conocimiento.</h4>
+  <h4 align="center">Soy un estudiante en analista en sistemas proveniente de Argentina, me encanta la programacion y le dedico gran parte del tiempo de mi vida, siempre recurro a ella para tratar de resolver cualquier necesidad.Constantemente busco nuevas herramientas y tecnologías para incorporar a mi conocimiento y aplicarlas en mis proyectos. Me especializo en lenguajes de programación orientados a objetos, como Python, C++ y C#,estoy familiarizado con los principios de la herencia, el polimorfismo y la encapsulación. Además, siento curiosidad por la ingeniería inversa y busco constantemente aprender y perfeccionar mis habilidades en esta práctica. Estoy comprometido con el aprendizaje continuo y a diario busco nuevas formas de mejorar mis habilidades y conocimientos en el campo de la programación</h4>
+  
   <h4 align="left">Actualmente busco ampliar mis conocimientos en las siguientes tecnologías:</h4>
   <div id="div2" align="center">
     <h4>Lenguajes:</h4>
@@ -14,3 +15,5 @@
     <img src="https://i.ibb.co/GsKWyj3/pngwing-com.png" title="Archlinux" width="60" height="60">
   </div>
 </div>
+
+
