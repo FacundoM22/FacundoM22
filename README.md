@@ -7,7 +7,7 @@
   
   
   <div id = "div2" align = "center"> 
-   <ul>
+   <ul align = "center">
     <li><h5> Lenguajes:</h4></li>
      <div id = "languages" > 
       <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title= "Python" widht= "40" height= "40">
