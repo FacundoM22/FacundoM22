@@ -6,7 +6,7 @@
    <h4 align = "left"> Actualmente busco ampliar mis conocimientos en los/as siguientes lenguajes/herramientas/sistemas operativos:</h3>
   
   
-  <div id = "div2" align = "left"> 
+  <div id = "div2" align = "center"> 
    <ul>
     <li><h5> Lenguajes:</h4></li>
      <div id = "languages" > 
