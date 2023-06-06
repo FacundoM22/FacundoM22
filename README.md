@@ -8,7 +8,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" title="Arduino" width="40" height="40">
     <h4>Herramientas:</h4>
-    <img src="https://i.ibb.co/Px9LcTq/IDA-fotor-bg-remover-20230605202953-2.png" title="IDA" width="55" height="55">
+    <img src="https://i.ibb.co/Px9LcTq/IDA-fotor-bg-remover-20230605202953-2.png" title="IDA" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" width="40" height="40">
     <h4>Sistemas operativos:</h4>
     <img src="https://i.ibb.co/GsKWyj3/pngwing-com.png" title="Archlinux" width="60" height="60">
