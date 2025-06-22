@@ -1,5 +1,5 @@
-<p align="Left">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=60&fontSize=16&color=74ACDF,FFFFFF,FFD100,74ACDF&sectionColor=f0f0f0&text=Programando%20el%20mañana,%20innovando%20el%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Mini Banner motivacional"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=60&width=600&fontSize=20&color=74ACDF,FFFFFF,FFD100,74ACDF&sectionColor=d3d3d3&rounded=false&text=Programando%20el%20mañana,%0Ainnovando%20el%20hoy.&animation=blinking&fontColor=000000" alt="Mini Banner motivacional"/>
 </p>
 
 
