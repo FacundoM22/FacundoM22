@@ -1,17 +1,19 @@
-<p align="center">
+<p align="Left">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=60&fontSize=16&color=74ACDF,FFFFFF,FFD100,74ACDF&sectionColor=f0f0f0&text=Programando%20el%20mañana,%20innovando%20el%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Mini Banner motivacional"/>
 </p>
 
 
-<p align="center">
+<p align="Right">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=600&height=35&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20Facundo+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorio" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+Facundo+%20+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" 
     alt="Typing SVG Banner" 
-    style="display: block; margin: 0 auto;"
   />
 </p>
 
-<p align="center">
+
+
+
+<p align="Left">
 Estudiante de Análisis de Sistemas en UTN y entusiasta del desarrollo de software. Transformo necesidades en soluciones a través del código, con foco en lenguajes orientados a objetos como Python, C++ y C#. También me apasiona la ingeniería inversa y estoy en constante perfeccionamiento en este campo.
 </p>
 
