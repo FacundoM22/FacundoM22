@@ -68,7 +68,5 @@ Mi experiencia con LabWare LIMS (Lenguaje: LIMS Basic) me ha permitido contribui
 </div>
 
 <div align="center">
-  <p>
+
   >   Última actualización: <span id="last-updated">Junio 2025</span>
-  </p>
-</div>
