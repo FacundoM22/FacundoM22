@@ -61,12 +61,14 @@ Mi experiencia con LabWare LIMS (Lenguaje: LIMS Basic) me ha permitido contribui
 
 ---
 
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&fontSize=30&color=74ACDF,FFFFFF,FFD100,74ACDF&text=Programando%20el%20ma%C3%B1ana,%20innovando%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Banner motivador con bandera argentina"/>
+</div>
+
 <div align="center">
   <p>
     Última actualización: <span id="last-updated">Junio 2025</span>
   </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&fontSize=30&color=74ACDF,FFFFFF,FFD100,74ACDF&text=Programando%20el%20ma%C3%B1ana,%20innovando%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Banner motivador con bandera argentina"/>
 </div>
