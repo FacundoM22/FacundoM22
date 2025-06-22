@@ -3,7 +3,7 @@
 </p>
 
 
-<div align="right">
+<div align="Center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
 </div>
 
