@@ -10,7 +10,7 @@
 
 
 
-<p align="center">
+<p align="Left">
 Estudiante de Análisis de Sistemas en UTN y entusiasta del desarrollo de software. Transformo necesidades en soluciones a través del código, con foco en lenguajes orientados a objetos como Python, C++ y C#. También me apasiona la ingeniería inversa y estoy en constante perfeccionamiento en este campo.
 </p>
 
