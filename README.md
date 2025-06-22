@@ -57,7 +57,7 @@ Mi experiencia con LabWare LIMS (Lenguaje: LIMS Basic) me ha permitido contribui
   <h2>📫 Conéctate Conmigo</h2>
   <p>Siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!</p>
   
-  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin/](https://www.linkedin.com/in/facundo-martin-moriconi-3581a11aa/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-martin-moriconi-3581a11aa/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundomoriconi.code@gmail.com)
   </div>
 
