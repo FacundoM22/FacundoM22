@@ -4,13 +4,13 @@
 
 
 <div align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+Facundo+%20+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
 </div>
 
 
 
 
-<p align="Left">
+<p align="center">
 Estudiante de Análisis de Sistemas en UTN y entusiasta del desarrollo de software. Transformo necesidades en soluciones a través del código, con foco en lenguajes orientados a objetos como Python, C++ y C#. También me apasiona la ingeniería inversa y estoy en constante perfeccionamiento en este campo.
 </p>
 
