@@ -5,7 +5,7 @@
 
 <p align="Right">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+Facundo+%20+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+%20+Facundo+%20+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" 
     alt="Typing SVG Banner" 
   />
 </p>
