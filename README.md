@@ -1,72 +1,83 @@
-<div id="top" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVkcWoxdGs5cGcxcWo1dm4xMHE1ZmQ2cjI4YXltNWpjbm1raG81byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Waves GIF" width="150"/>
-  <h1>¡Hola! Soy Facundo Moriconi 👋</h1>
-  <p>Estudiante apasionado de Análisis de Sistemas en UTN y entusiasta de la programación. Dedico mi tiempo a transformar necesidades en soluciones a través del código, explorando constantemente nuevas herramientas y tecnologías. Mi pasión se centra en lenguajes orientados a objetos como Python, C++ y C#, dominando principios de herencia, polimorfismo y encapsulación. Además, siento una profunda curiosidad por la Ingeniería Inversa y me esfuerzo día a día por perfeccionar mis habilidades en este campo dinámico.</p>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=600&height=35&lines=%20%20%20%20%20%20%20%20%20%20%20%20%20Facundo+Martin+Moriconi;Developer+en+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorio" alt="Typing SVG Banner" />
+</p>
+
+
+<p align="center">
+Estudiante de Análisis de Sistemas en UTN y entusiasta del desarrollo de software. Transformo necesidades en soluciones a través del código, con foco en lenguajes orientados a objetos como Python, C++ y C#. También me apasiona la ingeniería inversa y estoy en constante perfeccionamiento en este campo.
+</p>
 
 ---
 
-<div align="center">
-  <h2>🚀 Mi Experiencia y Logros</h2>
-</div>
+## 🚀 Mi Experiencia y Logros
 
 ### 📊 LabWare LIMS Specialist
+
 Mi experiencia con LabWare LIMS (Lenguaje: LIMS Basic) me ha permitido contribuir activamente en la gestión y automatización de procesos críticos de laboratorio:
-* Creación y optimización de planes de muestreo y análisis.
-* Desarrollo de productos y gestión avanzada de bases de datos.
-* Diseño e implementación de rutinas y subrutinas personalizadas para necesidades específicas.
-* Puesta en marcha de *Visual Workflows* para una operación intuitiva y eficiente.
 
-### 🎓 Formación Académica
-* **Analista en Sistemas** - Universidad Tecnológica Nacional (UTN)
-* **Certificado en Programación SQL** - CoderHouse
+- 🧪 Creación y optimización de planes de muestreo y análisis.
+- 🗂️ Desarrollo de productos y gestión avanzada de bases de datos.
+- 🔁 Diseño de rutinas y subrutinas personalizadas.
+- 🧭 Implementación de Visual Workflows para mejorar la experiencia operativa.
 
 ---
 
-<div align="center">
-  <h2>🎯 Tecnologías que Exploro y Dominio</h2>
-  <p>En mi camino de aprendizaje continuo, siempre estoy buscando expandir mis conocimientos y aplicar nuevas herramientas.</p>
-</div>
+## 🎓 Formación Académica
 
-### Lenguajes de Programación
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Basic Badge"/>
-</div>
-
-### Herramientas y Software
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/LabWare_LIMS-00AEEF?style=for-the-badge&logo=data-transfer-project&logoColor=white" alt="LabWare LIMS Badge"/>
-</div>
-
-### Sistemas Operativos
-<div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Linux Badge"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
-</div>
+- 📘 **Analista en Sistemas** — Universidad Tecnológica Nacional (UTN)
+- 🧾 **Certificado en Programación SQL** — CoderHouse
 
 ---
 
-<div align="center">
-  <h2>📫 Conéctate Conmigo</h2>
-  <p>Siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!</p>
+## 💻 Tecnologías que Exploro y Domino
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-martin-moriconi-3581a11aa/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundomoriconi.code@gmail.com)
-</div>
+<p align="center"><i>Siempre estoy buscando expandir mis conocimientos y aplicar nuevas herramientas.</i></p>
+
+### 🧠 Lenguajes de Programación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### 🛠️ Herramientas y Software
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LabWare_LIMS-00AEEF?style=for-the-badge&logo=data-transfer-project&logoColor=white"/>
+</p>
+
+### 🖥️ Sistemas Operativos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ---
 
+## 📫 Conéctate Conmigo
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/facundo-martin-moriconi-3581a11aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:facundomoriconi.code@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&fontSize=30&color=74ACDF,FFFFFF,FFD100,74ACDF&text=Programando%20el%20ma%C3%B1ana,%20innovando%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Banner motivador con bandera argentina"/>
-</div>
+---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&fontSize=28&color=74ACDF,FFFFFF,FFD100,74ACDF&text=Programando%20el%20mañana,%20innovando%20hoy.&animation=blinking&fontColor=FFFFFF" alt="Banner motivador con bandera argentina"/>
+</p>
 
-  >   Última actualización: <span id="last-updated">Junio 2025</span>
+<p align="center"><sub>📅 Última actualización: Junio 2025</sub></p>
