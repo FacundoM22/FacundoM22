@@ -41,8 +41,6 @@ Mi experiencia con LabWare LIMS (Lenguaje: LIMS Basic) me ha permitido contribui
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/LabWare_LIMS-00AEEF?style=for-the-badge&logo=data-transfer-project&logoColor=white" alt="LabWare LIMS Badge"/>
-  <img src="https://i.ibb.co/Px9LcTq/IDA-fotor-bg-remover-20230605202953-2.png" title="IDA Pro" width="55" height="55" alt="IDA Pro Logo"/>
-  <img src="https://i.ibb.co/pJK3rR0/j-P926-AXC-400x400-transformed.png" title="x64dbg" width="55" height="55" alt="x64dbg Logo"/>
 </div>
 
 ### Sistemas Operativos
