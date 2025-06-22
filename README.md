@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&height=60&width=600&fontSize=20&font=Courier+Prime&color=474747&text=Programando%20el%20mañana,%20innovando%20el%20hoy&animation=blinking&fontColor=FFFFFF" alt="Mini Banner motivacional"/>
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=D0CBCB&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=B2D0D8&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
 </div>
 
 
