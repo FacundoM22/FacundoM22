@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=60&width=600&fontSize=20&color=74ACDF,FFFFFF,FFD100,74ACDF&sectionColor=6e6e6e&rounded=false&text=Programando%20el%20mañana,%0Ainnovando%20el%20hoy.&animation=blinking&fontColor=000000" alt="Mini Banner motivacional"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=60&width=600&fontSize=20&font=Courier+Prime&color=474747&text=Programando%20el%20mañana,%20innovando%20el%20hoy&animation=blinking&fontColor=FFFFFF" alt="Mini Banner motivacional"/>
 </p>
-
-
-<div align="Center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=6e6e6e&width=800&height=35&lines=Nombre:+Facundo+%20+Martin+Moriconi;Desarrollador+Python,+LIMS+y+Domotica;Integrando+tecnologia+legacy+a+LIMS+modernos;Automatizando+procesos+de+laboratorios" alt="Typing SVG Banner" />
 </div>
 
 
